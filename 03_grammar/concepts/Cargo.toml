@@ -11,6 +11,10 @@ path = "src/event.rs"
 name = "fib"
 path = "src/fib.rs"
 
+[[bin]]
+name = "fib_dry"
+path = "src/fib_dry.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
